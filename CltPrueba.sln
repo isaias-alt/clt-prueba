@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CltPrueba.Api", "src\CltPrueba.Api\CltPrueba.Api.csproj", "{E63A4FE2-E41B-4047-B61A-C00AF199E0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63A4FE2-E41B-4047-B61A-C00AF199E0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63A4FE2-E41B-4047-B61A-C00AF199E0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63A4FE2-E41B-4047-B61A-C00AF199E0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63A4FE2-E41B-4047-B61A-C00AF199E0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

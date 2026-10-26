@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "name": "Pedro Benítez", "email": "pedro.benitez@test.com" },
+    { "name": "Sofía Martínez", "email": "sofia.martinez", "password": "clave-segura-1" },
+    { "name": "", "email": "sin.nombre@test.com" },
+    { "name": "Pedro Benítez (duplicado)", "email": "PEDRO.BENITEZ@test.com" },
+    { "name": "Lucas Casco", "email": "lcasco@test.com" },
+    { "name": "Elena Franco", "email": "elena.franco@test.com", "password": "corta" },
+    { "name": "Jorge Acosta", "email": "jorge.acosta@test.com", "password": "contraseña-larga-1" },
+    null
+  ]
+}
