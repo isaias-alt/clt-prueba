@@ -126,7 +126,7 @@ La respuesta indica cuántos se crearon y cuáles fallaron, con el motivo y la p
 }
 ```
 
-Si se ejecuta dos veces, la segunda vez los cuatro aparecen en `failed` porque el email ya existe. Un segundo archivo, `sample-data/bulk_users_test_with_errors.json`, mezcla usuarios válidos con casos de fallo (email inválido, nombre vacío, email repetido en el mismo arreglo, email ya existente, contraseña corta e ítem vacío) para ver el reporte de errores.
+Si se ejecuta dos veces, la segunda vez los cuatro aparecen en `failed` porque el email ya existe. Un segundo archivo, `sample-data/bulk_users_test_with_errors.json`, mezcla usuarios válidos con casos de fallo (email inválido, nombre vacío, email repetido en el mismo arreglo, email ya existente, contraseña corta e ítem vacío) para ver el reporte de errores. Para que el caso del email ya existente falle, hay que ejecutar antes `bulk_users_test.json`.
 
 ## Monedas iniciales
 
